@@ -23,20 +23,13 @@
         },
         {
           "id":4,
-          "titulo": "NFTs: la revolucion artistica",
-          "image": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https:%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7852e92-c682-4c9a-b916-90dcd5cb890d_1024x1024.png",
-          "price": 20,
-          "profesor": "Ivan Gonzalez"
-        },
-        {
-          "id":5,
           "titulo": "CURSO METAMASK: la guia definitiva",
           "image":"https://yt3.ggpht.com/a-/AAuE7mC1z-HXEKxL4YhAhc7WDHWA6Rnly1I592T5ag=s900-mo-c-c0xffffffff-rj-k-no",
           "price": 10,
           "profesor":  "Mauri Iwasik"
         },
         {
-          "id":6,
+          "id":5,
           "titulo":"BLOCKCHAIN: la tecnologia detras de las cryptos",
           "image": "https://logosmarcas.net/wp-content/uploads/2020/08/Bitcoin-Emblema.png",
           "price": 10,
